@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Chess%20knight/Color/chess_knight_color.svg" alt="Chessopedia GPT Logo" width="120" />
   <h1>♞ Chessopedia GPT</h1>
   <p><em>Your intelligent, fully-local, encyclopaedic chess assistant.</em></p>
 
